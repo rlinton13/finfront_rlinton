@@ -6,9 +6,9 @@ pool:
 variables:
   - name: projectName
     value: 'Training-Student-009-OC006-Lab03'  # <-- Update this
-  - name: buildPipelineNamerlinton13.finfront_rlinton'          # <-- Update this
+  - name: buildPipelineNamerfinfront_rlinton'          # <-- Update this
   - name: artifactName
-    value: 'rlinton13.finfront_rlinton'        
+    value: 'finweb_rlinton_deploy'        
   - name: targetFile
     value: 'app.py'                             # Optional: Which file inside artifact to display
   - name: resourceGroup
