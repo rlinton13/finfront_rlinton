@@ -6,7 +6,7 @@ pool:
 variables:
   - name: projectName
     value: 'Training-Student-009-OC006-Lab03'  # <-- Update this
-  - name: buildPipelineNamerfinfront_rlinton'          # <-- Update this
+  - name: buildPipelineNamer'finfront_rlinton_build'          # <-- Update this
   - name: artifactName
     value: 'finweb_rlinton_deploy'        
   - name: targetFile
